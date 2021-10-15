@@ -1,4 +1,4 @@
-# liveroom
+# Ajke Liveroom live create and publishing platform
 
 In this application I have used Flutter for mobile app development and Node.js (Nest js) as server side back-end api development.
 
